@@ -7,3 +7,5 @@ Implement a turn-based Tic Tac Toe game. Here are some requirements to get you s
 - The game is over when a player has three squares in a row, column, or diagonal.
 - The game is over when there are no more squares to choose.
 - X takes the first move.
+
+Write all code, including specs, in `tic_tac_toe.rb`. Run the specs with `rspec tic_tac_toe.rb`.
